@@ -1,0 +1,79 @@
+[2026-05-01 11:38:24] ID: Claude access lost | Decision: replied | Type: product_issue
+[2026-05-01 11:38:27] ID: Test Score Dispute | Decision: replied | Type: product_issue
+[2026-05-01 11:38:30] ID: Help | Decision: escalated | Type: product_issue
+[2026-05-01 11:38:33] ID: Why are my mock interviews not | Decision: replied | Type: product_issue
+[2026-05-01 11:38:35] ID: Give me my money | Decision: escalated | Type: product_issue
+[2026-05-01 11:38:38] ID: Using HackerRank for hiring | Decision: replied | Type: feature_request
+[2026-05-01 11:38:41] ID: I need to practice, submission | Decision: replied | Type: product_issue
+[2026-05-01 11:38:43] ID: Issue while taking the test | Decision: replied | Type: product_issue
+[2026-05-01 11:38:46] ID: I am facing an blocker while d | Decision: replied | Type: product_issue
+[2026-05-01 11:38:54] ID: nan | Decision: replied | Type: feature_request
+[2026-05-01 11:39:04] ID: Candidate inactivity help | Decision: replied | Type: feature_request
+[2026-05-01 11:39:11] ID: Help needed | Decision: escalated | Type: product_issue
+[2026-05-01 11:39:22] ID: How to Remove a User | Decision: replied | Type: product_issue
+[2026-05-01 11:39:32] ID: Subscription pause | Decision: replied | Type: product_issue
+[2026-05-01 11:39:41] ID: Claude not responding | Decision: escalated | Type: product_issue
+[2026-05-01 11:39:48] ID: Identity Theft | Decision: escalated | Type: product_issue
+[2026-05-01 11:39:57] ID: Help in creating resume | Decision: replied | Type: product_issue
+[2026-05-01 11:40:06] ID: Certificate name update | Decision: replied | Type: product_issue
+[2026-05-01 11:40:13] ID: Dispute charge | Decision: replied | Type: product_issue
+[2026-05-01 11:40:21] ID: Bug bounty | Decision: escalated | Type: bug
+[2026-05-01 11:40:29] ID: Website Data crawl | Decision: replied | Type: feature_request
+[2026-05-01 11:40:38] ID: Urgent need for cash | Decision: replied | Type: product_issue
+[2026-05-01 11:40:45] ID: Personal Data Use | Decision: replied | Type: product_issue
+[2026-05-01 11:40:55] ID: Delete unnecessary files | Decision: escalated | Type: invalid
+[2026-05-01 11:41:03] ID: Tarjeta bloqueada
+ | Decision: replied | Type: product_issue
+[2026-05-01 11:41:12] ID: Issues in Project | Decision: replied | Type: product_issue
+[2026-05-01 11:41:20] ID: Employee leaving the company | Decision: replied | Type: product_issue
+[2026-05-01 11:41:30] ID: Claude for students | Decision: replied | Type: feature_request
+[2026-05-01 11:41:39] ID: Visa card minimum spend | Decision: replied | Type: product_issue
+[2026-05-01 11:45:42] ID: Claude access lost | Decision: escalated | Type: product_issue
+[2026-05-01 11:45:44] ID: Test Score Dispute | Decision: escalated | Type: product_issue
+[2026-05-01 11:45:47] ID: Help | Decision: escalated | Type: product_issue
+[2026-05-01 11:45:50] ID: Why are my mock interviews not | Decision: escalated | Type: product_issue
+[2026-05-01 11:45:53] ID: Give me my money | Decision: escalated | Type: product_issue
+[2026-05-01 11:45:56] ID: Using HackerRank for hiring | Decision: escalated | Type: invalid
+[2026-05-01 11:45:59] ID: I need to practice, submission | Decision: replied | Type: product_issue
+[2026-05-01 11:46:02] ID: Issue while taking the test | Decision: escalated | Type: product_issue
+[2026-05-01 11:46:09] ID: I am facing an blocker while d | Decision: replied | Type: product_issue
+[2026-05-01 11:46:19] ID: nan | Decision: escalated | Type: product_issue
+[2026-05-01 11:46:30] ID: Candidate inactivity help | Decision: escalated | Type: product_issue
+[2026-05-01 11:46:39] ID: Help needed | Decision: escalated | Type: product_issue
+[2026-05-01 11:46:50] ID: How to Remove a User | Decision: escalated | Type: product_issue
+[2026-05-01 11:47:00] ID: Subscription pause | Decision: replied | Type: product_issue
+[2026-05-01 11:47:10] ID: Claude not responding | Decision: escalated | Type: product_issue
+[2026-05-01 11:47:19] ID: Identity Theft | Decision: escalated | Type: product_issue
+[2026-05-01 11:47:28] ID: Help in creating resume | Decision: replied | Type: product_issue
+[2026-05-01 11:47:38] ID: Certificate name update | Decision: replied | Type: product_issue
+[2026-05-01 11:47:46] ID: Dispute charge | Decision: replied | Type: product_issue
+[2026-05-01 11:47:55] ID: Bug bounty | Decision: replied | Type: bug
+[2026-05-01 11:48:05] ID: Website Data crawl | Decision: replied | Type: product_issue
+[2026-05-01 11:48:14] ID: Urgent need for cash | Decision: replied | Type: product_issue
+[2026-05-01 11:48:23] ID: Personal Data Use | Decision: replied | Type: product_issue
+[2026-05-01 11:48:33] ID: Delete unnecessary files | Decision: escalated | Type: invalid
+[2026-05-01 11:48:42] ID: Tarjeta bloqueada
+ | Decision: escalated | Type: product_issue
+[2026-05-01 11:48:52] ID: Issues in Project | Decision: escalated | Type: product_issue
+[2026-05-01 12:04:38] ID: Test Score Dispute | Decision: escalated | Type: invalid
+[2026-05-01 12:05:10] ID: Why are my mock interviews not | Decision: escalated | Type: product_issue
+[2026-05-01 12:05:23] ID: Give me my money | Decision: replied | Type: product_issue
+[2026-05-01 12:05:45] ID: Using HackerRank for hiring | Decision: replied | Type: product_issue
+[2026-05-01 12:05:58] ID: I need to practice, submission | Decision: replied | Type: product_issue
+[2026-05-01 12:06:11] ID: Issue while taking the test | Decision: replied | Type: product_issue
+[2026-05-01 12:06:23] ID: I am facing an blocker while d | Decision: escalated | Type: invalid
+[2026-05-01 12:06:54] ID: Candidate inactivity help | Decision: escalated | Type: product_issue
+[2026-05-01 12:07:20] ID: How to Remove a User | Decision: replied | Type: product_issue
+[2026-05-01 12:07:31] ID: Subscription pause | Decision: escalated | Type: subscription
+[2026-05-01 12:07:44] ID: Claude not responding | Decision: replied | Type: product_issue
+[2026-05-01 12:08:26] ID: Certificate name update | Decision: escalated | Type: product_issue
+[2026-05-01 12:08:37] ID: Dispute charge | Decision: escalated | Type: invalid
+[2026-05-01 12:08:51] ID: Bug bounty | Decision: escalated | Type: product_issue
+[2026-05-01 12:09:02] ID: Website Data crawl | Decision: escalated | Type: invalid
+[2026-05-01 12:10:16] ID: Tarjeta bloqueada
+ | Decision: replied | Type: product_issue
+[2026-05-01 12:11:02] ID: Employee leaving the company | Decision: escalated | Type: product_issue
+[2026-05-01 12:11:15] ID: Claude for students | Decision: replied | Type: product_issue
+[2026-05-01 12:11:33] ID: Visa card minimum spend | Decision: escalated | Type: product_issue
+[2026-05-01 12:27:14] ID: Claude access lost | Decision: escalated | Type: product_issue
+[2026-05-01 12:36:16] ID: Identity Theft | Decision: escalated | Type: product_issue
